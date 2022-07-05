@@ -3,7 +3,7 @@
 //  Magic Weather SwiftUI
 //
 //  Created by Cody Kerns on 1/26/21.
-//
+//  Note: These Extensions are from the sample project found here: https://github.com/RevenueCat/purchases-ios/tree/main/Examples/MagicWeatherSwiftUI
 
 import Foundation
 import RevenueCat
